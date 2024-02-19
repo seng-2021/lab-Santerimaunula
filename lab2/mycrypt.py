@@ -22,4 +22,3 @@ def encode(s):
 
 def decode(s):
     return s encode(s).lower()
-
